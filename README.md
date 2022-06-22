@@ -1,24 +1,8 @@
-# mobile_page
+# Mobile page
 
-## Project setup
-```
-npm install
-```
+1. Mobile responsive UI.
+2. Dynamic data loaded on page scroll.
+3. Delete button shown on card swipe.
+4. Read more action added for lenthy description.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Live preview link - https://manojpandis.github.io/mobilepage/
