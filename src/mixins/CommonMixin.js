@@ -30,4 +30,3 @@ export const CommonMixin = {
     }
 }
 
-export default 'defaulttext';
